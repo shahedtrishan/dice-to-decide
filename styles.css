@@ -1,0 +1,39 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: #232946;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #8BD3DD;
+}
+
+p {
+    font-size: 2rem;
+    color: #B8C1EC;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+}
